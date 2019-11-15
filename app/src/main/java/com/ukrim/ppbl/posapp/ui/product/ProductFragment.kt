@@ -95,6 +95,7 @@ class ProductFragment : Fragment(), CommonView, ProductAdapter.Listener {
     }
 
     override fun onItemClick(product: ProdukData) {
+
     }
 
     private fun dismissBottomSheet(animate: Boolean = true) {

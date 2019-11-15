@@ -63,4 +63,7 @@ dependencies {
     implementation "com.arthurivanets.bottomsheet:bottomsheets-core:1.1.2"
     implementation "com.arthurivanets.bottomsheet:bottomsheets-sheets:1.1.2"
     implementation "com.arthurivanets.bottomsheet:bottomsheets-ktx:1.1.2"
+
+    //uiux
+    implementation 'com.github.NaimishTrivedi:FBToast:1.0'
 }
